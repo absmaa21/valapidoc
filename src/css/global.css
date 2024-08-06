@@ -1,0 +1,50 @@
+.break-all {
+    word-break: break-all;
+}
+
+.max-w-fit {
+    max-width: fit-content;
+}
+
+.list-styled {
+    list-style-type: circle;
+}
+
+.fs-5-1 {
+    font-size: 1.20rem;
+}
+
+.fs-5-2 {
+    font-size: 1.15rem;
+}
+
+.fs-5-3 {
+    font-size: 1.10rem;
+}
+
+.fs-5-4 {
+    font-size: 1.05rem;
+}
+
+.text-highlight {
+    color: #fb9a51;
+}
+
+.code {
+    font-family: monospace;
+}
+
+.title-color {
+    color: rgba(255,255,255,0.5);
+}
+
+.nav-collapse-title {
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 200ms ease-in-out;
+    color: rgba(255,255,255,0.5);
+}
+
+.nav-collapse-title:hover {
+    color: white;
+}
